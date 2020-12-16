@@ -2,7 +2,7 @@
 * Author : Nasser Wahbeh
 *Date : Dec. 16, 2020
 *Nom du Programe: Erreurs
-*Description: Cette code permet d'afficher 'Bonjour mon ami' avec une nom donnée qui suivre cette phrase. 
+*Description: Cette code permet d'afficher 'Bonjour mon ami' avec une nom donnée qui suivre cette phrase
 */
 public class Erreurs
 	{
